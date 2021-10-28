@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("third dog");
         System.out.println("hot-fix commit");
         System.out.println("master commit1");
+        System.out.println("hot-fix commit1");
     }
 }
